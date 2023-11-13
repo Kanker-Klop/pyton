@@ -1,4 +1,4 @@
 import tetratie
 
-print(tetratie(3,3))
+print(tetratie.tetratie(7,4))
 
