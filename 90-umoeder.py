@@ -19,7 +19,9 @@ def naamvanu():
 naamvanu()
 
 def tetratiemoeder(getal,tet):
+    getetreerd = ''
     for amai in range(0,tet,1):
-        getetreerd = getal**getal
-    return getetreerd
+        getetreerd = getetreerd**getal
+        return getetreerd
+    
 print(tetratiemoeder(2,4))
