@@ -1,2 +1,2 @@
-import 92-tetratie.py
+import tetratie.py
 
