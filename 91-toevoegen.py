@@ -1,0 +1,5 @@
+print("U moeder")
+print("Eet mijn scheet")
+print("Dimi stop me gore videos te zien")
+print("Geef mij coke en hero")
+print("Wjw kom Zwaantjes")
