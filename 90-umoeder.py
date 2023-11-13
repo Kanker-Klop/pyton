@@ -12,3 +12,14 @@ print(amai)
 kanker = kwadrateer(4761)
 print(kanker)
 
+def naamvanu():
+    print("Wa is votre nom")
+    naam = input()
+    print("Uw naam is", naam)
+naamvanu()
+
+def tetratiemoeder(getal,tet):
+    for amai in range(0,tet,1):
+        getetreerd = getal**getal
+    return getetreerd
+print(tetratiemoeder(2,4))
