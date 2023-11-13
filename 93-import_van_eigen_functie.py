@@ -1,2 +1,4 @@
-import tetratie.py
+import tetratie
+
+print(tetratie(5,4))
 
