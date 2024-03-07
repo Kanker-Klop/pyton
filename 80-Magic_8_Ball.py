@@ -36,4 +36,11 @@ while vraag != "":
         kaka = "kaka"
         while kaka != "":
             print("MONGOOL")
+    try:
+        flakka = "umoeder"
+    except KeyboardInterrupt:
+        print("\nJAMA JEZUSZ")
+        exit()
+
+
 print("EN DIT WAS HET")
